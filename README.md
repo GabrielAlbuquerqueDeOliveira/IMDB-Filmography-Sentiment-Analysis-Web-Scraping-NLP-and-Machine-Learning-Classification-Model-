@@ -1,0 +1,2 @@
+# IMDB-Filmography-Sentiment-Analysis-Web-Scraping-NLP-and-Machine-Learning-Classification-Model-
+This project uses Python for web scraping movie reviews from IMDb. It applies NLP to clean and prepare the data, then trains a machine learning model for sentiment analysis. The model classifies reviews as positive, neutral, or negative, providing key insights into the public's reception of a filmography
